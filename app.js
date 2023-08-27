@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const data = require('./data.json');
 console.log(`data :: ${JSON.stringify(data)}`)
+
 app.get('/', (req, res) => {
     res.send(JSON.stringify(data))
 });
