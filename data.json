@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Shakir Ali"
+        },
+        {
+            "id": 2,
+            "name": "Vishal Randive"
+        },
+        {
+            "id": 3,
+            "name": "Nija Vinod"
+        }
+    ]
+}
